@@ -10,13 +10,4 @@
 pip install matplotlib
 ```
 
-### 運行指令
-運行主程式 `Accounting.py`，程式會提示您輸入收支細節：
-```bash
-python Accounting.py
-```
-
-輸入完並儲存便可執行`chart_generator.py`生成圖表
-```bash
-python chart_generator.py
-```
+運行主程式 `Accounting.py`，程式會提示您輸入收支細節。輸入完並儲存便可執行`chart_generator.py`生成圖表
