@@ -11,3 +11,10 @@ pip install matplotlib
 ```
 
 運行主程式 `Accounting.py`，程式會提示您輸入收支細節。輸入完並儲存便可執行`chart_generator.py`生成圖表
+
+#### 結果呈現
+two branches merged together. 
+![ two branches merged together. ](C:\Users\orang\OneDrive\桌面\image)
+
+圓餅圖
+![ 圓餅圖 ](C:\Users\orang\OneDrive\桌面\image(1))
