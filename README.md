@@ -14,7 +14,7 @@ pip install matplotlib
 
 #### 結果呈現
 two branches merged together. 
-![ two branches merged together. ](image)
+![ two branches merged together. ](merge.png)
 
 圓餅圖
-![ 圓餅圖 ](image(1))
+![ 圓餅圖 ](chart.png)
